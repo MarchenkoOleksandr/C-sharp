@@ -1,0 +1,7 @@
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_homework_14_Tamagotchi\c-sharp_homework_14_Tamagotchi\bin\Debug\c-sharp_homework_14_Tamagotchi.exe.config
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_homework_14_Tamagotchi\c-sharp_homework_14_Tamagotchi\bin\Debug\c-sharp_homework_14_Tamagotchi.exe
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_homework_14_Tamagotchi\c-sharp_homework_14_Tamagotchi\bin\Debug\c-sharp_homework_14_Tamagotchi.pdb
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_homework_14_Tamagotchi\c-sharp_homework_14_Tamagotchi\obj\Debug\c-sharp_homework_14_Tamagotchi.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_homework_14_Tamagotchi\c-sharp_homework_14_Tamagotchi\obj\Debug\c-sharp_homework_14_Tamagotchi.exe
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_homework_14_Tamagotchi\c-sharp_homework_14_Tamagotchi\obj\Debug\c-sharp_homework_14_Tamagotchi.pdb
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_homework_14_Tamagotchi\c-sharp_homework_14_Tamagotchi\obj\Debug\c-sharp_homework_14_Tamagotchi.csprojResolveAssemblyReference.cache
