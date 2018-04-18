@@ -1,0 +1,7 @@
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_lab_12_finance\c-sharp_lab_12_finance\bin\Debug\c-sharp_lab_12_finance.exe.config
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_lab_12_finance\c-sharp_lab_12_finance\bin\Debug\c-sharp_lab_12_finance.exe
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_lab_12_finance\c-sharp_lab_12_finance\bin\Debug\c-sharp_lab_12_finance.pdb
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_lab_12_finance\c-sharp_lab_12_finance\obj\Debug\c-sharp_lab_12_finance.csprojResolveAssemblyReference.cache
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_lab_12_finance\c-sharp_lab_12_finance\obj\Debug\c-sharp_lab_12_finance.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_lab_12_finance\c-sharp_lab_12_finance\obj\Debug\c-sharp_lab_12_finance.exe
+D:\Академия ШАГ\Платформа Microsoft. NET и язык C#\С_sharp_code\c-sharp_lab_12_finance\c-sharp_lab_12_finance\obj\Debug\c-sharp_lab_12_finance.pdb
